@@ -120,6 +120,9 @@ u = doc.xpath('//*[@id="waterfall"]/div/a[1]/@href')
 
 ![2](C:\Users\Administrator\Desktop\LearnPython\爬虫日记：批量抓取花瓣网高清美图并保存\2.png)
 
+
+
 我们根据网页代码中的元素一层层找值：
 
 ![3](C:\Users\Administrator\Desktop\LearnPython\爬虫日记：批量抓取花瓣网高清美图并保存\3.png)
+
